@@ -6,7 +6,7 @@ using UnityEditor;
 
 #endif
 
-namespace Core.Utility.SceneField
+namespace SceneFieldTools
 {
     [System.Serializable]
     public class SceneField
